@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/resume/static/js/main.be15ebd3.chunk.js",
-    "main.js.map": "/resume/static/js/main.be15ebd3.chunk.js.map",
+    "main.js": "/resume/static/js/main.d12c9c09.chunk.js",
+    "main.js.map": "/resume/static/js/main.d12c9c09.chunk.js.map",
     "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
     "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
     "static/js/2.e6602912.chunk.js": "/resume/static/js/2.e6602912.chunk.js",
     "static/js/2.e6602912.chunk.js.map": "/resume/static/js/2.e6602912.chunk.js.map",
     "index.html": "/resume/index.html",
-    "precache-manifest.3c4b8cf88e9567c446e856c31d564570.js": "/resume/precache-manifest.3c4b8cf88e9567c446e856c31d564570.js",
+    "precache-manifest.02b24d85c34622ee27c7f41ccf6205bc.js": "/resume/precache-manifest.02b24d85c34622ee27c7f41ccf6205bc.js",
     "service-worker.js": "/resume/service-worker.js",
     "static/js/2.e6602912.chunk.js.LICENSE.txt": "/resume/static/js/2.e6602912.chunk.js.LICENSE.txt",
     "static/media/apartment-price-api.png": "/resume/static/media/apartment-price-api.49fcd186.png",
@@ -24,6 +24,6 @@
   "entrypoints": [
     "static/js/runtime-main.75d8c91e.js",
     "static/js/2.e6602912.chunk.js",
-    "static/js/main.be15ebd3.chunk.js"
+    "static/js/main.d12c9c09.chunk.js"
   ]
 }
