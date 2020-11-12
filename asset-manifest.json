@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/resume/static/js/main.be15ebd3.chunk.js",
+    "main.js.map": "/resume/static/js/main.be15ebd3.chunk.js.map",
+    "runtime-main.js": "/resume/static/js/runtime-main.75d8c91e.js",
+    "runtime-main.js.map": "/resume/static/js/runtime-main.75d8c91e.js.map",
+    "static/js/2.e6602912.chunk.js": "/resume/static/js/2.e6602912.chunk.js",
+    "static/js/2.e6602912.chunk.js.map": "/resume/static/js/2.e6602912.chunk.js.map",
+    "index.html": "/resume/index.html",
+    "precache-manifest.3c4b8cf88e9567c446e856c31d564570.js": "/resume/precache-manifest.3c4b8cf88e9567c446e856c31d564570.js",
+    "service-worker.js": "/resume/service-worker.js",
+    "static/js/2.e6602912.chunk.js.LICENSE.txt": "/resume/static/js/2.e6602912.chunk.js.LICENSE.txt",
+    "static/media/apartment-price-api.png": "/resume/static/media/apartment-price-api.49fcd186.png",
+    "static/media/co-note.png": "/resume/static/media/co-note.3f20b059.png",
+    "static/media/corona-solution.png": "/resume/static/media/corona-solution.20e27bad.png",
+    "static/media/diary.png": "/resume/static/media/diary.69e5a824.png",
+    "static/media/dsm-market.png": "/resume/static/media/dsm-market.72e770b5.png",
+    "static/media/nodejs.png": "/resume/static/media/nodejs.5aa90b00.png",
+    "static/media/profile.png": "/resume/static/media/profile.f3db941b.png",
+    "static/media/react.png": "/resume/static/media/react.254e2aad.png",
+    "static/media/referring.png": "/resume/static/media/referring.f9dff51d.png",
+    "static/media/typescript.png": "/resume/static/media/typescript.4e96f111.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75d8c91e.js",
+    "static/js/2.e6602912.chunk.js",
+    "static/js/main.be15ebd3.chunk.js"
+  ]
+}
